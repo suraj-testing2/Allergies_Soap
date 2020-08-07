@@ -1,0 +1,7 @@
+---
+version: 1
+repository:
+  owner: dom_s_team
+  tags: 
+  - key: env
+    value: prod
